@@ -2,4 +2,4 @@
 
 - variable declaration
 - Arrays
-- console.log()
+- objects
