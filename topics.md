@@ -3,3 +3,4 @@
 - variable declaration
 - Arrays
 - objects
+- loops
